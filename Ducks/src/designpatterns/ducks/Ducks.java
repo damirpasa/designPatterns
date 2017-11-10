@@ -1,5 +1,5 @@
 package designpatterns.ducks;
 
-public class Ducks {
+public abstract class Ducks {
 
 }
