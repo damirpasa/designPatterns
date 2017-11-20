@@ -34,6 +34,8 @@ public class SwingObserverExample {
 		frame.getContentPane().add(BorderLayout.CENTER, button);
 		frame.setSize(300,300);
 		frame.setVisible(true);
+		
+		System.out.println("kkkkrneki");
 	}
 	
 	/*
