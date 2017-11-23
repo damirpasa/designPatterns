@@ -3,3 +3,7 @@
 /.classpath/
 /.project/
 /.recommenders/
+*.classpath
+*.project
+*.prefs
+*.class
